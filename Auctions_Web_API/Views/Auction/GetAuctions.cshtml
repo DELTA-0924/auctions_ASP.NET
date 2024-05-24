@@ -1,0 +1,25 @@
+﻿
+@model List<AuctionResponce>;
+@{
+    ViewBag.Title = "Samira";
+}
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Auctions list</title>
+    </head>
+    <body>
+        <h2>@Model.Count</h2>
+        @foreach(AuctionResponce a in Model)
+    {
+        <ul>
+            <li>@a.TitleName;</li>
+            <li>@a.Description;</li>
+            <li>@a.Created;</li>
+            <li>@a.Finished;</li>
+        </ul>
+        
+    }
+</body>
+</html>

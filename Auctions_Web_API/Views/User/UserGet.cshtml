@@ -1,0 +1,17 @@
+﻿@model List<UserResponce>
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>User Data</title>
+</head>
+<body>
+    
+    @foreach(var u in Model){
+        @u.UserName<br>
+        @u.Email<br />
+        
+    }
+    
+</body>
+</html>

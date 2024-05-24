@@ -1,0 +1,12 @@
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\bin\Debug\net8.0\Auctuons_core.deps.json
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\bin\Debug\net8.0\Auctuons_core.dll
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\bin\Debug\net8.0\Auctuons_core.pdb
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\obj\Debug\net8.0\Auctuons_core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\obj\Debug\net8.0\Auctuons_core.AssemblyInfoInputs.cache
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\obj\Debug\net8.0\Auctuons_core.AssemblyInfo.cs
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\obj\Debug\net8.0\Auctuons_core.csproj.CoreCompileInputs.cache
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\obj\Debug\net8.0\Auctuons_core.dll
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\obj\Debug\net8.0\refint\Auctuons_core.dll
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\obj\Debug\net8.0\Auctuons_core.pdb
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\obj\Debug\net8.0\ref\Auctuons_core.dll
+C:\Users\Scorp\source\repos\Auctions\Auctuons_core\obj\Debug\net8.0\Auctuons_core.csproj.AssemblyReference.cache

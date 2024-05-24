@@ -1,0 +1,17 @@
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\bin\Debug\net8.0\Auction.Application.deps.json
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\bin\Debug\net8.0\Auction.Application.dll
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\bin\Debug\net8.0\Auction.Application.pdb
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\bin\Debug\net8.0\Auction_DataAcces.dll
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\bin\Debug\net8.0\Auctuons_core.dll
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\bin\Debug\net8.0\Auction_DataAcces.pdb
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\bin\Debug\net8.0\Auctuons_core.pdb
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\obj\Debug\net8.0\Auction.Application.csproj.AssemblyReference.cache
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\obj\Debug\net8.0\Auction.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\obj\Debug\net8.0\Auction.Application.AssemblyInfoInputs.cache
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\obj\Debug\net8.0\Auction.Application.AssemblyInfo.cs
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\obj\Debug\net8.0\Auction.Application.csproj.CoreCompileInputs.cache
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\obj\Debug\net8.0\Auction.Application.csproj.CopyComplete
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\obj\Debug\net8.0\Auction.Application.dll
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\obj\Debug\net8.0\refint\Auction.Application.dll
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\obj\Debug\net8.0\Auction.Application.pdb
+C:\Users\Scorp\source\repos\Auctions\Auction.Application\obj\Debug\net8.0\ref\Auction.Application.dll
